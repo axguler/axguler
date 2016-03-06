@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  FirstProject
-//
-//  Created by Bargi Kaho on 6.03.2016.
-//  Copyright © 2016 axguler. All rights reserved.
-//
+
 
 import UIKit
 
